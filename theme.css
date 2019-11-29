@@ -1,0 +1,14 @@
+body{
+    background-color: burlywood;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+}
+
+table{
+    border-block-width: 5;
+    border-color: greenyellow;
+}
+
+.button{
+    font-size: 20px;
+}
